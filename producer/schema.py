@@ -9,4 +9,5 @@ COLUMNS = [
     ("event_ts", "TIMESTAMP"),
     ("page", "VARCHAR"),
     ("revenue_usd", "DOUBLE"),
+    ("device_type", "VARCHAR"),
 ]
