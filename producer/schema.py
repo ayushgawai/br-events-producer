@@ -1,5 +1,5 @@
 # The name of the user key column in events.parquet. Downstream teams read it.
-USER_KEY = "user_id"
+USER_KEY = "accont_id"
 
 COLUMNS = [
     ("event_id", "VARCHAR"),
